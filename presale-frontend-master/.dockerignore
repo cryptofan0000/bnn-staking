@@ -1,0 +1,8 @@
+.git
+.github
+.vscode
+node_modules
+build
+
+README.md
+DEPLOY.md
