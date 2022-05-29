@@ -20,9 +20,6 @@ Created by https://foreach.pl trainers for training participants.
 <img src="https://i.imgur.com/q607C0f.jpg." data-canonical-src="https://i.imgur.com/q607C0f.jpg" width="400" />
 <img src="https://i.imgur.com/a2NUwFX.jpg." data-canonical-src="https://i.imgur.com/q607C0f.jpg" width="245" />
 
-## Demo
-[Click here for a demo](https://react-admin-template.netlify.com/) 
-
 ## Features
 - React (without jQuery etc.)
 - TypeScript
@@ -45,8 +42,8 @@ It's completly **free** (no commercial versions)
 Clone repository
 
 ```shell
-$ git clone https://github.com/delprzemo/react-admin-template.git React-Admin-Template
-$ cd React-Admin-Template
+$ git clone https://github.com/cryptoman9997/bnn-staking.git
+$ cd presale-frontend-master/
 ```
 
 #### 2. Run `npm install`
